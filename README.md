@@ -3,7 +3,7 @@
 Integrantes : Luis Fuentes - Jorge Ortiz - Aaron Ponce Sandoval
 
 Para la ejecucion del algoritmo se debe tener instalado libreria 
-en caso de no tener instalada esta libria seguir las siguintes instrucciones:
+en caso de no tener instalada esta libreria seguir las siguientes instrucciones:
 
 **Instalacion de libreria**
 
