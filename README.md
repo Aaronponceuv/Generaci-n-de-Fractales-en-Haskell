@@ -1,4 +1,4 @@
- Generacion de Fractales en Haskell
+ # Generacion de Fractales en Haskell
 
 Integrantes : Luis Fuentes - Jorge Ortiz - Aaron Ponce Sandoval
 
